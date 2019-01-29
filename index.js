@@ -1,5 +1,5 @@
+console.log( 'file loaded' );
 
 document.getElementById('mySpan').addEventListener('click', function() {
-   console.log( 'hi' )
-   // alert( 'hi again' )
+   console.log( 'clicked' );
 });
